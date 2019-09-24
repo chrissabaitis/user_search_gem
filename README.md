@@ -20,7 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+V0.1.0
+Method `date_search` searches users `created_a` between two dates
 
 ## Development
 
